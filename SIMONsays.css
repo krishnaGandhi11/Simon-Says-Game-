@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-image:url(bgSymon.jpg);
+    color: #fff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+} 
+.btn{
+    /* display: flex; */
+    height: 175px;
+    width: 175px;
+    border: 10px solid #000;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+.red{
+    background-color: rgb(199, 83, 83);
+}
+.green{
+    background-color: rgb(60, 201, 60);
+}
+.yellow{
+    background-color: rgb(215, 141, 72);
+}
+.purple{
+    background-color: rgb(40, 107, 189);
+}
+
+.flash{
+    background-color: white;
+}
